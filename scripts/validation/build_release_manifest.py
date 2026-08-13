@@ -36,10 +36,29 @@ def main() -> int:
     args = parser.parse_args()
     rendered = "".join(f"{sha}  {path}\n" for sha, path in inventory())
     if args.check:
-        if not MANIFEST.is_file() or MANIFEST.read_text(encoding="utf-8") != rendered:
-            print("FAIL: release-file manifest is missing or differs")
+        if not MANIFEST.is_file():
+            print("FAIL: release-file manifest is missing")
             return 1
-        print(f"PASS: {len(inventory())} released files match SHA-256 manifest")
+        expected: dict[str, str] = {}
+        for line in MANIFEST.read_text(encoding="utf-8").splitlines():
+            if not line.strip():
+                continue
+            sha, path = line.split("  ", 1)
+            expected[path] = sha
+        observed = {path: sha for sha, path in inventory()}
+        if expected != observed:
+            missing = sorted(set(expected) - set(observed))
+            extra = sorted(set(observed) - set(expected))
+            changed = sorted(
+                path for path in set(expected) & set(observed)
+                if expected[path] != observed[path]
+            )
+            print(
+                "FAIL: release-file manifest differs "
+                f"missing={missing[:3]} extra={extra[:3]} changed={changed[:3]}"
+            )
+            return 1
+        print(f"PASS: {len(observed)} released files match SHA-256 manifest")
         return 0
     MANIFEST.write_text(rendered, encoding="utf-8", newline="\n")
     print(f"WROTE: {MANIFEST.relative_to(ROOT)} ({len(inventory())} files)")
@@ -48,4 +67,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
