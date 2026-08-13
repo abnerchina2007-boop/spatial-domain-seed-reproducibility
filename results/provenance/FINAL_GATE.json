@@ -1,0 +1,76 @@
+{
+  "numeric": {
+    "status": "PASS",
+    "values": {
+      "entries": 19,
+      "methods": 5,
+      "units": 95,
+      "runs": 1900,
+      "seed_pairs": 18050,
+      "primary_iso_pairs": 6928,
+      "divergent_iso_pairs": 1125,
+      "divergent_fraction": 0.16238452655889146,
+      "affected_units": 55,
+      "score_sd_instability_spearman_rho": 0.24809630459126542,
+      "low_sd_high_instability_units": 12,
+      "marker_estimable_units": 94,
+      "marker_positive_units": 94,
+      "marker_median_rho": 0.6945763796,
+      "tertile_medians": {
+        "Low": 0.72413793,
+        "Middle": 0.7699115,
+        "High": 0.8181818182
+      },
+      "median_high_minus_low": 0.0828086480000001,
+      "wilcoxon_W": 4459.0,
+      "wilcoxon_P": 2.3097164857133306e-17,
+      "consensus_improved_units": 95,
+      "consensus_units": 95,
+      "median_consensus_gain": 0.1715913051,
+      "p_rank1_sum_max_abs_error": 3.3306690738754696e-16,
+      "sedr_units": 19,
+      "merfish_sections": 5
+    },
+    "failures": []
+  },
+  "figures": {
+    "status": "PASS",
+    "expected_exports": 52,
+    "failures": []
+  },
+  "tables": {
+    "status": "PASS",
+    "rows": {
+      "Table1_FINAL.csv": 19,
+      "Supplementary_Table_S1_FINAL.csv": 19,
+      "Supplementary_Table_S2_FINAL.csv": 5,
+      "Supplementary_Table_S3_FINAL.csv": 95,
+      "Supplementary_Table_S4_FINAL.csv": 95
+    },
+    "failures": []
+  },
+  "documents": {
+    "status": "PASS",
+    "missing": []
+  },
+  "language": {
+    "status": "PASS",
+    "findings": []
+  },
+  "manuscript": {
+    "status": "PASS",
+    "count": 33,
+    "mismatches": []
+  },
+  "model_trees": {
+    "status": "PASS",
+    "trees": 4,
+    "mismatches": []
+  },
+  "protected": {
+    "status": "PASS",
+    "checked": 233,
+    "failures": []
+  },
+  "status": "PASS"
+}

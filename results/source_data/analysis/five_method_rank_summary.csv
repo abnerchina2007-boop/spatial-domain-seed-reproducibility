@@ -1,0 +1,96 @@
+section,section_display,method,empirical_p_rank1,empirical_expected_rank,empirical_median_rank,empirical_p_top2,empirical_p_top3,enumerated_combinations,rank_rule,rank1_rule
+151507,151507,GraphST,0,3.8199999999999998,4,0.012775,0.37945000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151507,151507,STAGATE,0,3.7400000000000002,4,0.20549999999999999,0.38500000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151507,151507,SpaGCN,0.0025000000000000001,2.3300000000000001,2,0.70956249999999998,0.95999999999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151507,151507,BANKSY,0,4.1074999999999999,4,0.072162500000000004,0.27555000000000002,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151507,151507,SEDR,0.99750000000000005,1.0024999999999999,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151508,151508,GraphST,0,3.5550000000000002,4,0.17074375,0.4715125,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151508,151508,STAGATE,0,3.5625,4,0.23046249999999999,0.4657,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151508,151508,SpaGCN,0,2.98,3,0.37883749999999999,0.71207500000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151508,151508,BANKSY,0,3.9024999999999999,4,0.21995624999999999,0.35071249999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151508,151508,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151509,151509,GraphST,0.0053625000000000001,4.2874999999999996,5,0.067049999999999998,0.2076875,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151509,151509,STAGATE,0.12520000000000001,2.1800000000000002,2,0.76076874999999999,0.94523749999999995,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151509,151509,SpaGCN,0.00027625000000000002,3.9399999999999999,4,0.019927500000000001,0.27106625000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151509,151509,BANKSY,0.031125,3.3799999999999999,3,0.1968125,0.58174999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151509,151509,SEDR,0.83803625000000004,1.2124999999999999,1,0.95544125000000002,0.99425874999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151510,151510,GraphST,0,3.7225000000000001,4,0.13316249999999999,0.42654999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151510,151510,STAGATE,0,3.5699999999999998,4,0.27634999999999998,0.45329999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151510,151510,SpaGCN,0,3.8700000000000001,4,0.117225,0.35004999999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151510,151510,BANKSY,0,2.8374999999999999,3,0.47326249999999997,0.77010000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151510,151510,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151669,151669,GraphST,0,3.8199999999999998,4,0.061124999999999999,0.386625,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151669,151669,STAGATE,0,3.3574999999999999,3,0.045999999999999999,0.60962499999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151669,151669,SpaGCN,0,4.7074999999999996,5,0,0.011625,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151669,151669,BANKSY,0.0025000000000000001,2.1124999999999998,2,0.89287499999999997,0.99212500000000003,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151669,151669,SEDR,0.99750000000000005,1.0024999999999999,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151670,151670,GraphST,0.035499999999999997,3.1924999999999999,3,0.170125,0.64087499999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151670,151670,STAGATE,0.0560125,3.6225000000000001,4,0.17217499999999999,0.38373750000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151670,151670,SpaGCN,0,4.6875,5,0.0017875,0.036049999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151670,151670,BANKSY,0.54910625000000002,1.6975,1,0.79954999999999998,0.95508124999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151670,151670,SEDR,0.35938124999999999,1.8,2,0.85636250000000003,0.98425625000000005,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151671,151671,GraphST,0,4.0999999999999996,4,0,0.060999999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151671,151671,STAGATE,0,3.04,3,0.044999999999999998,0.92149999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151671,151671,SpaGCN,0,4.8150000000000004,5,0,0.017500000000000002,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151671,151671,BANKSY,0,2.0449999999999999,2,0.95499999999999996,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151671,151671,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151672,151672,GraphST,0,4.2525000000000004,4,0,0.0025000000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151672,151672,STAGATE,0,2.9775,3,0.025000000000000001,0.99750000000000005,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151672,151672,SpaGCN,0,4.7450000000000001,5,0,0,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151672,151672,BANKSY,0.28999999999999998,1.7350000000000001,2,0.97499999999999998,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151672,151672,SEDR,0.70999999999999996,1.29,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151673,151673,GraphST,0,4.7725,5,0.00063750000000000005,0.02035,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151673,151673,STAGATE,0,3.9550000000000001,4,0.0083374999999999994,0.196575,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151673,151673,SpaGCN,0,3.1274999999999999,3,0.073275000000000007,0.82682500000000003,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151673,151673,BANKSY,0,2.145,2,0.91774999999999995,0.95625000000000004,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151673,151673,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151674,151674,GraphST,0,4.3475000000000001,5,0.057006250000000001,0.17198749999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151674,151674,STAGATE,0,3.7949999999999999,4,0.1131375,0.376975,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151674,151674,SpaGCN,0,2.5674999999999999,2,0.57461874999999996,0.88263749999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151674,151674,BANKSY,0,3.29,3,0.25523750000000001,0.56840000000000002,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151674,151674,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151675,151675,GraphST,0,4.7975000000000003,5,0,0.018499999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151675,151675,STAGATE,0,3.8574999999999999,4,0.0043750000000000004,0.236375,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151675,151675,SpaGCN,0,2.5525000000000002,3,0.455625,0.99187499999999995,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151675,151675,BANKSY,0,2.7925,2,0.54000000000000004,0.75324999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151675,151675,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151676,151676,GraphST,0,4.7474999999999996,5,0,0.016250000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151676,151676,STAGATE,0,4.0350000000000001,4,0.0062500000000000003,0.14449999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151676,151676,SpaGCN,0,2.6699999999999999,3,0.34875,0.98124999999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151676,151676,BANKSY,0,2.5474999999999999,2,0.64500000000000002,0.85799999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+151676,151676,SEDR,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+STARmap_20180505_BY3_1k,STARmap,GraphST,0.0106625,2.8849999999999998,3,0.18454999999999999,0.91978749999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+STARmap_20180505_BY3_1k,STARmap,STAGATE,0,4.8574999999999999,5,0,0,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,0.00029999999999999997,4.0374999999999996,4,0.0066499999999999997,0.098049999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+STARmap_20180505_BY3_1k,STARmap,BANKSY,0.52118750000000003,1.605,1,0.87975000000000003,0.99406249999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+STARmap_20180505_BY3_1k,STARmap,SEDR,0.46784999999999999,1.615,2,0.92905000000000004,0.98809999999999998,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+HBCA1,HBCA1,GraphST,0.0011249999999999999,3.48,4,0.033750000000000002,0.48512499999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+HBCA1,HBCA1,STAGATE,0.4325,1.5825,2,0.98562499999999997,0.99937500000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+HBCA1,HBCA1,SpaGCN,0,3.4824999999999999,3,0.002,0.51549999999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+HBCA1,HBCA1,BANKSY,0.56637499999999996,1.4550000000000001,1,0.97862499999999997,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+HBCA1,HBCA1,SEDR,0,5,5,0,0,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,0,2.1375000000000002,2,0.90973749999999998,0.95827499999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,0,4.8224999999999998,5,0.0041625000000000004,0.0458,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,0,3.645,4,0.036812499999999998,0.38950000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,0,3.395,3,0.049287499999999998,0.60642499999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,0.090874999999999997,2.1025,2,0.83199999999999996,0.97675000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,0.88749999999999996,1.1174999999999999,1,0.995,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,0,4.1574999999999998,4,0.023425000000000001,0.27165,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,0,4.0125000000000002,4,0.010075000000000001,0.25035000000000002,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,0.021624999999999998,3.6099999999999999,3,0.13950000000000001,0.50124999999999997,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,0.29249999999999998,1.7075,2,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,0.70750000000000002,1.2925,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,0,4.4024999999999999,5,0,0.16850000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,0,3.9249999999999998,4,0,0.31237500000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,0,3.6724999999999999,3,0,0.51912499999999995,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,0,2.1225000000000001,2,0.93554999999999999,0.95814999999999995,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,1,1,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,0,4.1524999999999999,5,0.032274999999999998,0.35020000000000001,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,0,4.0724999999999998,4,0.0104,0.230325,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,0,3.6524999999999999,4,0.021774999999999999,0.46132499999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,0.0074999999999999997,2,2,0.99275000000000002,0.99975000000000003,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,0.99250000000000005,1.0075000000000001,1,1,1,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,0,3.9375,4,0.0047499999999999999,0.36449999999999999,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,0,3.5299999999999998,3,0,0.53812499999999996,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,0,4.5250000000000004,5,0.0025000000000000001,0.097625000000000003,3200000,average midrank for exact ties,tied maxima split rank-1 credit equally

@@ -1,0 +1,20 @@
+﻿Dataset,Platform,Species,Tissue / condition,"Spots / cells, n","Genes, n",Reference annotation,"Reference domains, K"
+151507,10x Visium,Human,Human dorsolateral prefrontal cortex,4226,18430,Cortical layers L1-L6 and white matter,7
+151508,10x Visium,Human,Human dorsolateral prefrontal cortex,4384,18067,Cortical layers L1-L6 and white matter,7
+151509,10x Visium,Human,Human dorsolateral prefrontal cortex,4789,18688,Cortical layers L1-L6 and white matter,7
+151510,10x Visium,Human,Human dorsolateral prefrontal cortex,4634,18466,Cortical layers L1-L6 and white matter,7
+151669,10x Visium,Human,Human dorsolateral prefrontal cortex,3661,18583,Cortical layers L1-L6 and white matter,7
+151670,10x Visium,Human,Human dorsolateral prefrontal cortex,3498,18332,Cortical layers L1-L6 and white matter,7
+151671,10x Visium,Human,Human dorsolateral prefrontal cortex,4110,19041,Cortical layers L1-L6 and white matter,7
+151672,10x Visium,Human,Human dorsolateral prefrontal cortex,4015,18730,Cortical layers L1-L6 and white matter,7
+151673,10x Visium,Human,Human dorsolateral prefrontal cortex,3639,19151,Cortical layers L1-L6 and white matter,7
+151674,10x Visium,Human,Human dorsolateral prefrontal cortex,3673,19878,Cortical layers L1-L6 and white matter,7
+151675,10x Visium,Human,Human dorsolateral prefrontal cortex,3592,18658,Cortical layers L1-L6 and white matter,7
+151676,10x Visium,Human,Human dorsolateral prefrontal cortex,3460,18674,Cortical layers L1-L6 and white matter,7
+STARmap,STARmap in situ sequencing,Mouse,Visual cortex,1207,1020,"CC, HPC, and cortical layers L1-L6 (L2/3 combined)",7
+HBCA1,10x Visium,Human,Human breast cancer,3798,22240,"Fine histopathology regions (Healthy, IDC, DCIS/LCIS, tumor edge)",20
+Bregma -0.04,MERFISH,Mouse,Hypothalamus / preoptic region,5488,155,BASS/manual atlas-informed spatial domains,8
+Bregma -0.09,MERFISH,Mouse,Hypothalamus / preoptic region,5557,155,BASS/manual atlas-informed spatial domains,8
+Bregma -0.14,MERFISH,Mouse,Hypothalamus / preoptic region,5926,155,BASS/manual atlas-informed spatial domains,8
+Bregma -0.19,MERFISH,Mouse,Hypothalamus / preoptic region,5803,155,BASS/manual atlas-informed spatial domains,8
+Bregma -0.24,MERFISH,Mouse,Hypothalamus / preoptic region,5543,155,BASS/manual atlas-informed spatial domains,8

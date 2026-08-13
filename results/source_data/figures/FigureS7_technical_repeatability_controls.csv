@@ -1,0 +1,7 @@
+display_order,method,dataset,control,control_type,ari_to_primary,nmi_to_primary
+1,STAGATE,,identical_seed_rerun,identical_seed_rerun,1,1
+2,GraphST,,identical_seed_rerun,identical_seed_rerun,1,1
+3,BANKSY,,identical_seed_rerun,identical_seed_rerun,1,1
+4,SEDR,151507,identical_seed_rerun,identical_seed_rerun,1,
+5,SEDR,STARmap,identical_seed_rerun,identical_seed_rerun,1,
+6,GraphST,,cluster_label_permutation_sanity,label_permutation_sanity,1,1

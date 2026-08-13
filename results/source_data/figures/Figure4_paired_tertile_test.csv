@@ -1,0 +1,2 @@
+analysis,n_complete_units,n_positive_differences,n_zero_differences,n_negative_differences,median_low,median_middle,median_high,median_paired_high_minus_low,wilcoxon_statistic,wilcoxon_p_value_one_sided
+paired one-sided Wilcoxon: high versus low unit-level tertile medians,95,93,1,1,0.72413793000000004,0.76991149999999997,0.81818181820000002,0.082808647999999999,4459,2.3097164857100002e-17

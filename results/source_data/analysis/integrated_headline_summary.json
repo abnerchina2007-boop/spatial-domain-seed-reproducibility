@@ -1,0 +1,77 @@
+{
+  "structural_totals": {
+    "dataset_entries": 19,
+    "methods": 5,
+    "method_dataset_units": 95,
+    "seed_specific_runs": 1900,
+    "pairwise_seed_comparisons": 18050
+  },
+  "low_sd_high_instability": {
+    "definition": "reference ARI SD <= 0.02 and PartitionInstability >= 0.30",
+    "count": 12,
+    "denominator_units": 95
+  },
+  "primary_iso_accuracy": {
+    "absolute_reference_ari_threshold": 0.02,
+    "eligible_pairs": 6928,
+    "divergent_partition_ari_lt_0_50": 1125,
+    "fraction_divergent": 0.16238452655889143,
+    "percentage_divergent": 16.238452655889144,
+    "affected_units": 55
+  },
+  "within_unit_partition_to_marker": {
+    "n_estimable": 94,
+    "median": 0.6945763796,
+    "q25": 0.5395962117,
+    "q75": 0.8175821424999999,
+    "positive_units": 94
+  },
+  "marker_tertiles": {
+    "low": {
+      "n_estimable": 95,
+      "median": 0.72413793,
+      "q25": 0.6260162601,
+      "q75": 0.8628297704500001
+    },
+    "middle": {
+      "n_estimable": 95,
+      "median": 0.7699115,
+      "q25": 0.6949152542,
+      "q75": 0.9025157233
+    },
+    "high": {
+      "n_estimable": 95,
+      "median": 0.8181818182,
+      "q25": 0.7391304324,
+      "q75": 0.93474607915
+    },
+    "high_minus_low": {
+      "n_estimable": 95,
+      "median": 0.08280864799999998,
+      "q25": 0.04418657124999997,
+      "q75": 0.14722637170000002
+    }
+  },
+  "consensus": {
+    "improved_units": 95,
+    "denominator_units": 95,
+    "gain": {
+      "n_estimable": 95,
+      "median": 0.1715913051,
+      "q25": 0.096283710225,
+      "q75": 0.236480124
+    },
+    "median_single_seed_pairwise_ari": {
+      "n_estimable": 95,
+      "median": 0.6040361658,
+      "q25": 0.5048977553,
+      "q75": 0.6737046038000001
+    },
+    "split_half_consensus_ari": {
+      "n_estimable": 95,
+      "median": 0.777284727665,
+      "q25": 0.7119013375500001,
+      "q75": 0.87109216045
+    }
+  }
+}

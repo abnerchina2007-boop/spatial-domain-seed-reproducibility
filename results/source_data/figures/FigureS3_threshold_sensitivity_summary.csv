@@ -1,0 +1,4 @@
+threshold,n_units,n_iso_accuracy_pairs,n_partition_ari_below_0_50,fraction_partition_ari_below_0_50,pooled_median_pairwise_partition_ari
+0.01,95,4135,535,0.1293833131801693,0.6931656021
+0.02,95,6928,1125,0.16238452655889146,0.6559035193634999
+0.03,95,9070,1627,0.17938257993384785,0.64315902645

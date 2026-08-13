@@ -1,0 +1,856 @@
+section,section_display,method,rank,rank_x2,count,probability,enumerated_combinations,rank_rule,interpretation_unit
+151507,151507,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,2,4,40880,0.012775,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,3,6,1173360,0.36667499999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,4,8,1306640,0.40832499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,GraphST,5,10,679120,0.212225,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,2,4,657600,0.20549999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,3,6,574400,0.17949999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,4,8,910400,0.28449999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,STAGATE,5,10,1057600,0.33050000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,1,2,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,2,4,2262600,0.70706250000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,3,6,801400,0.25043749999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,4,8,121400,0.037937499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SpaGCN,5,10,6600,0.0020625000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,2,4,230920,0.072162500000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,3,6,650840,0.2033875,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,4,8,861560,0.26923750000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,BANKSY,5,10,1456680,0.45521250000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,1,2,3192000,0.99750000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,2,4,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151507,151507,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,2,4,546380,0.17074375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,3,6,962460,0.30076874999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,4,8,1059940,0.33123124999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,GraphST,5,10,631220,0.19725624999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,2,4,737480,0.23046249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,3,6,752760,0.23523749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,4,8,882040,0.27563749999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,STAGATE,5,10,827720,0.25866250000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,2,4,1212280,0.37883749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,3,6,1066360,0.33323750000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,4,8,694440,0.2170125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SpaGCN,5,10,226920,0.070912500000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,2,4,703860,0.21995624999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,3,6,418420,0.13075624999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,4,8,563580,0.17611874999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,BANKSY,5,10,1514140,0.47316875000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151508,151508,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,1,2,17160,0.0053625000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,2,4,197400,0.061687499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,3,6,450040,0.1406375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,4,8,719080,0.22471250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,GraphST,5,10,1816320,0.56759999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,1,2,400640,0.12520000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,2,4,2033820,0.63556875000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,3,6,590300,0.18446874999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,4,8,139380,0.043556249999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,STAGATE,5,10,35860,0.011206249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,1,2,884,0.00027625000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,2,4,62884,0.019651249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,3,6,803644,0.25113875000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,4,8,1592524,0.49766375000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SpaGCN,5,10,740064,0.23127,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,1,2,99600,0.031125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,2,4,530200,0.16568749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,3,6,1231800,0.38493749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,4,8,731400,0.2285625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,BANKSY,5,10,607000,0.18968750000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,1,2,2681716,0.83803625000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,2,4,375696,0.117405,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,3,6,124216,0.038817499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,4,8,17616,0.0055050000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151509,151509,SEDR,5,10,756,0.00023625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,2,4,426120,0.13316249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,3,6,938840,0.29338750000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,4,8,931960,0.29123749999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,GraphST,5,10,903080,0.28221249999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,2,4,884320,0.27634999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,3,6,566240,0.17695,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,4,8,790560,0.24704999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,STAGATE,5,10,958880,0.29965000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,2,4,375120,0.117225,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,3,6,745040,0.232825,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,4,8,1000560,0.31267499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SpaGCN,5,10,1079280,0.33727499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,2,4,1514440,0.47326249999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,3,6,949880,0.29683749999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,4,8,476920,0.14903749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,BANKSY,5,10,258760,0.080862500000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151510,151510,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,2,4,195600,0.061124999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,3,6,1041600,0.32550000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,4,8,1106000,0.34562500000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,GraphST,5,10,856800,0.26774999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,2,4,147200,0.045999999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,3,6,1803600,0.56362500000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,4,8,1207200,0.37724999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,STAGATE,5,10,42000,0.013125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,3,6,37200,0.011625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,4,8,861600,0.26924999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SpaGCN,5,10,2301200,0.71912500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,1,2,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,2,4,2849200,0.89037500000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,3,6,317600,0.099250000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,4,8,25200,0.0078750000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,BANKSY,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,1,2,3192000,0.99750000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,2,4,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151669,151669,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,1,2,113600,0.035499999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,2,4,430800,0.13462499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,3,6,1506400,0.47075,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,4,8,1024400,0.32012499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,GraphST,5,10,124800,0.039,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,1,2,179240,0.0560125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,2,4,371720,0.1161625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,3,6,677000,0.21156249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,4,8,1221880,0.3818375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,STAGATE,5,10,750160,0.23442499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,2,4,5720,0.0017875,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,3,6,109640,0.034262500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,4,8,763560,0.23861250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SpaGCN,5,10,2321080,0.72533749999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,1,2,1757140,0.54910625000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,2,4,801420,0.25044375000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,3,6,497700,0.15553125000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,4,8,139780,0.043681249999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,BANKSY,5,10,3960,0.0012375000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,1,2,1150020,0.35938124999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,2,4,1590340,0.49698124999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,3,6,409260,0.12789375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,4,8,50380,0.015743750000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151670,151670,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,3,6,195200,0.060999999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,4,8,2489600,0.77800000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,GraphST,5,10,515200,0.161,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,2,4,144000,0.044999999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,3,6,2804800,0.87649999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,4,8,230400,0.071999999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,STAGATE,5,10,20800,0.0064999999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,3,6,56000,0.017500000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,4,8,480000,0.14999999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SpaGCN,5,10,2664000,0.83250000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,2,4,3056000,0.95499999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,3,6,144000,0.044999999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,BANKSY,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151671,151671,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,3,6,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,4,8,2376000,0.74250000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,GraphST,5,10,816000,0.255,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,2,4,80000,0.025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,3,6,3112000,0.97250000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,4,8,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,4,8,816000,0.255,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SpaGCN,5,10,2384000,0.745,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,1,2,928000,0.28999999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,2,4,2192000,0.68500000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,3,6,80000,0.025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,BANKSY,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,1,2,2272000,0.70999999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,2,4,928000,0.28999999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151672,151672,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,2,4,2040,0.00063750000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,3,6,63080,0.019712500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,4,8,595720,0.18616250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,GraphST,5,10,2539160,0.79348750000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,2,4,26680,0.0083374999999999994,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,3,6,602360,0.1882375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,4,8,2059240,0.64351250000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,STAGATE,5,10,511720,0.15991250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,2,4,234480,0.073275000000000007,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,3,6,2411360,0.75355000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,4,8,465840,0.14557500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SpaGCN,5,10,88320,0.0276,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,2,4,2936800,0.91774999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,3,6,123200,0.0385,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,4,8,79200,0.024750000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,BANKSY,5,10,60800,0.019,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151673,151673,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,2,4,182420,0.057006250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,3,6,367940,0.11498124999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,4,8,804860,0.25151875000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,GraphST,5,10,1844780,0.57649375000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,2,4,362040,0.1131375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,3,6,844280,0.2638375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,4,8,1081320,0.3379125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,STAGATE,5,10,912360,0.28511249999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,2,4,1838780,0.57461874999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,3,6,985660,0.30801875000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,4,8,296340,0.092606250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SpaGCN,5,10,79220,0.02475625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,2,4,816760,0.25523750000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,3,6,1002120,0.31316250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,4,8,1017480,0.31796249999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,BANKSY,5,10,363640,0.1136375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151674,151674,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,3,6,59200,0.018499999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,4,8,529600,0.16550000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,GraphST,5,10,2611200,0.81599999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,2,4,14000,0.0043750000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,3,6,742400,0.23200000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,4,8,2129200,0.66537500000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,STAGATE,5,10,314400,0.098250000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,2,4,1458000,0.455625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,3,6,1716000,0.53625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,4,8,26000,0.0081250000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SpaGCN,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,2,4,1728000,0.54000000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,3,6,682400,0.21325,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,4,8,515200,0.161,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,BANKSY,5,10,274400,0.085750000000000007,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151675,151675,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,3,6,52000,0.016250000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,4,8,704000,0.22,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,GraphST,5,10,2444000,0.76375000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,2,4,20000,0.0062500000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,3,6,442400,0.13825000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,4,8,2143200,0.66974999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,STAGATE,5,10,594400,0.18575,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,2,4,1116000,0.34875,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,3,6,2024000,0.63249999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,4,8,60000,0.018749999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SpaGCN,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,2,4,2064000,0.64500000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,3,6,681600,0.21299999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,4,8,292800,0.091499999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,BANKSY,5,10,161600,0.050500000000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+151676,151676,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,1,2,34120,0.0106625,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,2,4,556440,0.1738875,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,3,6,2352760,0.73523749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,4,8,256680,0.080212500000000006,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,GraphST,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,4,8,456000,0.14249999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,STAGATE,5,10,2744000,0.85750000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,1,2,960,0.00029999999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,2,4,20320,0.0063499999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,3,6,292480,0.091399999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,4,8,2430240,0.75944999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SpaGCN,5,10,456000,0.14249999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,1,2,1667800,0.52118750000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,2,4,1147400,0.35856250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,3,6,365800,0.1143125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,4,8,19000,0.0059375000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,BANKSY,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,1,2,1497120,0.46784999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,2,4,1475840,0.4612,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,3,6,188960,0.059049999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,4,8,38080,0.011900000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+STARmap_20180505_BY3_1k,STARmap,SEDR,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,1,2,3600,0.0011249999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,2,4,104400,0.032625000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,3,6,1444400,0.45137500000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,4,8,1647600,0.51487499999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,GraphST,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,1,2,1384000,0.4325,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,2,4,1770000,0.55312499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,3,6,44000,0.01375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,4,8,2000,0.00062500000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,2,4,6400,0.002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,3,6,1643200,0.51349999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,4,8,1550400,0.48449999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SpaGCN,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,1,2,1812400,0.56637499999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,2,4,1319200,0.41225000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,3,6,68400,0.021375000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,BANKSY,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+HBCA1,HBCA1,SEDR,5,10,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,2,4,2911160,0.90973749999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,3,6,155320,0.048537499999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,4,8,115880,0.036212500000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,GraphST,5,10,17640,0.0055125,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,2,4,13320,0.0041625000000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,3,6,133240,0.041637500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,4,8,261560,0.081737500000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SpaGCN,5,10,2791880,0.87246250000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,2,4,117800,0.036812499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,3,6,1128600,0.35268749999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,4,8,1725400,0.53918750000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,BANKSY,5,10,228200,0.071312500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,2,4,157720,0.049287499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,3,6,1782840,0.55713749999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,4,8,1097160,0.34286250000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.04,Bregma -0.04,SEDR,5,10,162280,0.050712500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,1,2,290800,0.090874999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,2,4,2371600,0.74112500000000003,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,3,6,463200,0.14474999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,4,8,67600,0.021125000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,GraphST,5,10,6800,0.0021250000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,1,2,2840000,0.88749999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,2,4,344000,0.1075,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,3,6,16000,0.0050000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,2,4,74960,0.023425000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,3,6,794320,0.248225,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,4,8,882480,0.27577499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SpaGCN,5,10,1448240,0.45257500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,2,4,32240,0.010075000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,3,6,768880,0.24027499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,4,8,1525520,0.47672500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,BANKSY,5,10,873360,0.27292499999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,1,2,69200,0.021624999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,2,4,377200,0.11787499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,3,6,1157600,0.36175000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,4,8,724400,0.22637499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.09,Bregma -0.09,SEDR,5,10,871600,0.27237499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,1,2,936000,0.29249999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,2,4,2264000,0.70750000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,GraphST,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,1,2,2264000,0.70750000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,2,4,936000,0.29249999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,3,6,539200,0.16850000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,4,8,833600,0.26050000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SpaGCN,5,10,1827200,0.57099999999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,3,6,999600,0.31237500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,4,8,1440800,0.45024999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,BANKSY,5,10,759600,0.237375,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,3,6,1661200,0.51912499999999995,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,4,8,925600,0.28925000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.14,Bregma -0.14,SEDR,5,10,613200,0.19162499999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,2,4,2993760,0.93554999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,3,6,72320,0.022599999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,4,8,82080,0.025649999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,GraphST,5,10,51840,0.016199999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,1,2,3200000,1,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,2,4,103280,0.032274999999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,3,6,1017360,0.31792500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,4,8,367440,0.114825,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SpaGCN,5,10,1711920,0.53497499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,2,4,33280,0.0104,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,3,6,703760,0.21992500000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,4,8,1460640,0.45645000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,BANKSY,5,10,1002320,0.31322499999999998,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,2,4,69680,0.021774999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,3,6,1406560,0.43955,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,4,8,1289840,0.40307500000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.19,Bregma -0.19,SEDR,5,10,433920,0.1356,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,1,2,24000,0.0074999999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,2,4,3152800,0.98524999999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,3,6,22400,0.0070000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,4,8,800,0.00025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,GraphST,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,1,2,3176000,0.99250000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,2,4,24000,0.0074999999999999997,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,3,6,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,4,8,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,STAGATE,5,10,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,2,4,15200,0.0047499999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,3,6,1151200,0.35975000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,4,8,1052000,0.32874999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SpaGCN,5,10,981600,0.30675000000000002,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,2,4,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,3,6,1722000,0.53812499999999996,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,4,8,1260000,0.39374999999999999,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,BANKSY,5,10,218000,0.068125000000000005,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,1,2,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,1.5,3,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,2,4,8000,0.0025000000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,2.5,5,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,3,6,304400,0.095125000000000001,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,3.5,7,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,4,8,887200,0.27725,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,4.5,9,0,0,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
+MERFISH_Bregma_m0.24,Bregma -0.24,SEDR,5,10,2000400,0.62512500000000004,3200000,average midrank for exact ties,exact empirical combinations; not independent experiments
