@@ -1,0 +1,4 @@
+# Released scientific artifacts are immutable byte snapshots. Do not let Git
+# rewrite their line endings on checkout; the SHA-256 manifest is byte-exact.
+results/** -text
+
