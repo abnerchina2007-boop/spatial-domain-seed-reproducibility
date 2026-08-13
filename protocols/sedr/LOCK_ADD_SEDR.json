@@ -1,0 +1,27 @@
+{
+  "decision": "LOCK_ADD_SEDR",
+  "protocol_file": "SEDR_FROZEN_PROTOCOL.md",
+  "protocol_hash": "8DC7B571D832C15895741597E77BDFADD22268F9CD2856CF4D5DA9490D7A8544",
+  "protocol_sha256": "8DC7B571D832C15895741597E77BDFADD22268F9CD2856CF4D5DA9490D7A8544",
+  "locked_at": "2026-08-13T02:55:00+08:00",
+  "official_repository": "JinmiaoChenLab/SEDR",
+  "official_commit": "ef4836059a4ea49be3bf7c67008a44ffc16a2a0e",
+  "technical_gate": {
+    "structural_inputs_passed": 19,
+    "structural_inputs_total": 19,
+    "label_blind_technical_views_passed": 19,
+    "label_blind_technical_views_total": 19,
+    "representative_smoke_passed": 4,
+    "representative_smoke_total": 4,
+    "identical_seed_controls_passed": 2,
+    "identical_seed_controls_total": 2,
+    "identical_seed_partition_ari": [1.0, 1.0],
+    "runtime_feasible": true,
+    "mclust_operational": true,
+    "gpu_operational": true
+  },
+  "scientific_unblinding": false,
+  "scientific_outcomes_inspected_before_lock": false,
+  "committed_target_runs": 380,
+  "outcome_independent_commitment": true
+}

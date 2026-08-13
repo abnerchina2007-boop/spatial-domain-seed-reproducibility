@@ -1,0 +1,26 @@
+method: STAGATE
+package: STAGATE_pyG
+version: "1.0.0"
+repository: https://github.com/zhanglabtools/STAGATE_pyG
+commit: TO VERIFY
+input_modalities: [expression, spatial_coordinates]
+hidden_dimensions: [512, 30]
+epochs: 200
+learning_rate: 0.001
+weight_decay: 0.0001
+graph:
+  type: radius
+  radius_default: 150
+  radius_hbca1: 300
+  radius_merfish: 150
+  coordinate_rescaling_merfish: false
+readout:
+  method: sklearn_GaussianMixture
+  covariance_type: tied
+  n_init: 5
+  max_iter: 500
+  reg_covar: 0.000001
+  random_state: run_seed
+  n_components: requested_k
+spatial_refinement: none
+

@@ -1,0 +1,26 @@
+method: GraphST
+version: "1.1.1"
+repository: https://github.com/JinmiaoChenLab/GraphST
+commit: d62b0b7b6cd38ee285f3ac8cd67b7341a10bcc74
+input_modalities: [expression, spatial_coordinates]
+epochs: 200
+learning_rate: 0.001
+nominal_output_dimension: 64
+graph:
+  implementation: official_GraphST_spatial_graph
+  merfish_datatype: Stereo
+  merfish_neighbors: 3
+embedding_postprocessing:
+  reduce_to_pcs_if_dimension_exceeds: 20
+  pca_solver: arpack
+  pca_random_state: 0
+readout:
+  method: sklearn_GaussianMixture
+  covariance_type: tied
+  n_init: 5
+  max_iter: 500
+  reg_covar: 0.000001
+  random_state: run_seed
+  n_components: requested_k
+spatial_refinement: none
+

@@ -1,0 +1,65 @@
+# Raw and intermediate data
+data/raw/
+data/interim/
+data/processed/
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+*.rds
+*.RData
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+# Run artifacts
+predictions/
+checkpoints/
+logs/
+cache/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+
+# Python / notebooks / environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.conda/
+
+# R, IDE, and operating-system files
+.Rhistory
+.RData
+.Rproj.user/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# Generated reviewer outputs (released source tables remain tracked)
+reproduced_outputs/
+build/
+dist/
+

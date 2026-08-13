@@ -1,0 +1,63 @@
+method: SEDR
+version: "1.0.0"
+repository: https://github.com/JinmiaoChenLab/SEDR
+commit: ef4836059a4ea49be3bf7c67008a44ffc16a2a0e
+mode: clustering_with_DEC
+preprocessing:
+  visium:
+    gene_filter_min_cells: 50
+    gene_filter_min_counts: 10
+    normalize_total: 1000000
+    log_transform: false
+    hvg_count: 2000
+    hvg_flavor: seurat_v3
+    scale: scanpy_defaults
+    pca_components_maximum: 200
+    pca_random_state: 42
+  starmap_and_merfish:
+    full_gene_panel: true
+    normalize_total: 1000000
+    log_transform: false
+    scale: scanpy_defaults
+    pca_components_maximum: 200
+    pca_random_state: 42
+spatial_graph:
+  metric: euclidean
+  visium_neighbors: 12
+  starmap_and_merfish_neighbors: 6
+  exclude_self: true
+  symmetrization: undirected_union
+  normalization: official_SEDR
+architecture:
+  expression_encoder: [64, 16]
+  graph_hidden: 64
+  graph_outputs: [16, 16]
+  latent_dimension: 32
+  dropout: 0.2
+  sce_alpha: 3
+  internal_dec_k: 10
+  mask_rate: 0.8
+loss_weights:
+  reconstruction: 10
+  graph_convolution: 0.1
+  self_construction: 1
+  dec_kl: 1
+training:
+  optimizer: Adam
+  learning_rate: 0.01
+  weight_decay: 0.01
+  pretraining_epochs: 200
+  dec_epochs: 200
+  dec_interval: 20
+  dec_tolerance: 0.0
+  dec_initial_kmeans_n_init: 20
+  dec_initial_kmeans_random_state: 42
+readout:
+  implementation: R_mclust
+  version: "6.1.3"
+  model: EEE
+  calls_per_run: 1
+  requested_groups: requested_k
+  r_seed: run_seed
+spatial_refinement: none
+

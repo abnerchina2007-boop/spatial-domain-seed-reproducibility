@@ -1,0 +1,177 @@
+schema_version: 1
+expected_local_root: data/raw
+raw_data_distributed_in_repository: false
+
+entries:
+  - id: "151507"
+    display_name: "151507"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4226
+    n_genes: 18430
+    requested_k: 7
+  - id: "151508"
+    display_name: "151508"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4384
+    n_genes: 18067
+    requested_k: 7
+  - id: "151509"
+    display_name: "151509"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4789
+    n_genes: 18688
+    requested_k: 7
+  - id: "151510"
+    display_name: "151510"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4634
+    n_genes: 18466
+    requested_k: 7
+  - id: "151669"
+    display_name: "151669"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3661
+    n_genes: 18583
+    requested_k: 7
+  - id: "151670"
+    display_name: "151670"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3498
+    n_genes: 18332
+    requested_k: 7
+  - id: "151671"
+    display_name: "151671"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4110
+    n_genes: 19041
+    requested_k: 7
+  - id: "151672"
+    display_name: "151672"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 4015
+    n_genes: 18730
+    requested_k: 7
+  - id: "151673"
+    display_name: "151673"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3639
+    n_genes: 19151
+    requested_k: 7
+  - id: "151674"
+    display_name: "151674"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3673
+    n_genes: 19878
+    requested_k: 7
+  - id: "151675"
+    display_name: "151675"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3592
+    n_genes: 18658
+    requested_k: 7
+  - id: "151676"
+    display_name: "151676"
+    family: DLPFC
+    platform: 10x Visium
+    species: human
+    tissue: dorsolateral prefrontal cortex
+    n_observations: 3460
+    n_genes: 18674
+    requested_k: 7
+  - id: STARmap_20180505_BY3_1k
+    display_name: STARmap
+    family: STARmap
+    platform: STARmap in situ sequencing
+    species: mouse
+    tissue: visual cortex
+    n_observations: 1207
+    n_genes: 1020
+    requested_k: 7
+  - id: HBCA1
+    display_name: HBCA1
+    family: breast_cancer
+    platform: 10x Visium
+    species: human
+    tissue: breast cancer
+    n_observations: 3798
+    n_genes: 22240
+    requested_k: 20
+  - id: MERFISH_Bregma_m0.04
+    display_name: "Bregma -0.04"
+    family: MERFISH_Animal1
+    platform: MERFISH
+    species: mouse
+    tissue: hypothalamus / preoptic region
+    n_observations: 5488
+    n_genes: 155
+    requested_k: 8
+  - id: MERFISH_Bregma_m0.09
+    display_name: "Bregma -0.09"
+    family: MERFISH_Animal1
+    platform: MERFISH
+    species: mouse
+    tissue: hypothalamus / preoptic region
+    n_observations: 5557
+    n_genes: 155
+    requested_k: 8
+  - id: MERFISH_Bregma_m0.14
+    display_name: "Bregma -0.14"
+    family: MERFISH_Animal1
+    platform: MERFISH
+    species: mouse
+    tissue: hypothalamus / preoptic region
+    n_observations: 5926
+    n_genes: 155
+    requested_k: 8
+  - id: MERFISH_Bregma_m0.19
+    display_name: "Bregma -0.19"
+    family: MERFISH_Animal1
+    platform: MERFISH
+    species: mouse
+    tissue: hypothalamus / preoptic region
+    n_observations: 5803
+    n_genes: 155
+    requested_k: 8
+  - id: MERFISH_Bregma_m0.24
+    display_name: "Bregma -0.24"
+    family: MERFISH_Animal1
+    platform: MERFISH
+    species: mouse
+    tissue: hypothalamus / preoptic region
+    n_observations: 5543
+    n_genes: 155
+    requested_k: 8
+

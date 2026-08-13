@@ -1,0 +1,33 @@
+method: SpaGCN
+version: "1.2.7"
+repository: https://github.com/jianhuupenn/SpaGCN
+commit: dc7a1c26ea0fdf4dfe7064adc7699be141b4871f
+input_modalities: [expression, spatial_coordinates]
+histology_used: false
+preprocessing:
+  normalize_total: 10000
+  log1p: true
+  maximum_pcs: 50
+graph:
+  implementation: official_coordinate_adjacency
+  merfish_search_l:
+    p: 0.5
+    start: 0.01
+    end: 1000
+    tolerance: 0.01
+    maximum_runs: 100
+    cache_per_section: true
+training:
+  learning_rate: 0.05
+  maximum_epochs: 200
+  initialization: kmeans
+  init_spa: true
+  tolerance: 0.005
+  n_clusters: requested_k
+refinement:
+  implementation: official_SpaGCN_refine
+  shape: hexagon
+  neighbors: 6
+  post_refinement_observed_k_must_equal_requested_k: false
+  rule: retain_first_normally_completed_finite_refined_output
+

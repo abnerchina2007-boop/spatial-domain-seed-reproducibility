@@ -1,0 +1,24 @@
+name: validate release snapshot
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate source-data consistency
+        run: python scripts/validation/validate_release.py
+      - name: Verify released file hashes
+        run: python scripts/validation/build_release_manifest.py --check
+      - name: Scan public tree
+        run: python scripts/validation/security_scan.py
+

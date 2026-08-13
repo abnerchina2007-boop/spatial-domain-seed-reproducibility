@@ -1,0 +1,75 @@
+schema_version: 1
+study:
+  benchmark_entries: 19
+  methods:
+    - GraphST
+    - STAGATE
+    - SpaGCN
+    - BANKSY
+    - SEDR
+  seeds: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  method_entry_units: 95
+  total_runs: 1900
+
+reference_accuracy:
+  metrics: [ARI, NMI]
+  ari_sample_sd_ddof: 1
+  nmi_sample_sd_ddof: 1
+
+partition_reproducibility:
+  pair_enumeration: unordered_seed_pairs
+  pairs_per_unit: 190
+  metrics: [ARI, NMI]
+  primary_unit_summary: median_pairwise_ari
+  partition_instability: "1 - median_pairwise_ari"
+  fifth_percentile_method: existing_pipeline
+
+score_map_decoupling:
+  reference_ari_sd_max: 0.02
+  partition_instability_min: 0.30
+  role: descriptive
+
+iso_accuracy:
+  score_metric: reference_ari
+  primary_absolute_difference_max: 0.02
+  sensitivity_absolute_difference_max: [0.01, 0.03]
+  divergent_partition_ari_below: 0.50
+
+marker_reproducibility:
+  alignment: maximum_overlap_hungarian_to_full_consensus
+  differential_ranking:
+    implementation: scanpy_rank_genes_groups
+    method: wilcoxon
+    use_raw: false
+    tie_correct: false
+    contrast: domain_vs_all_other_observations
+  primary_marker_set_size: 100
+  sensitivity_marker_set_size: 50
+  full_rank_sensitivity: spearman
+  primary_pair_metric: median_domain_top100_jaccard
+  association_summary: within_unit_spearman
+  tertiles: deterministic_equal_count_low_middle_high
+  tertile_tie_break: seed_ids
+  paired_test:
+    test: wilcoxon_signed_rank
+    alternative: high_greater_than_low
+
+ranking:
+  empirical_draws_per_method: 20
+  exact_combinations_per_entry: 3200000
+  rank_ties: average_midranks
+  rank1_ties: equal_credit_among_tied_maxima
+  inference_from_combinations: false
+
+consensus:
+  matrix: unweighted_coassociation
+  entry: "fraction of included seeds co-clustering each observation pair"
+  distance: "1 - coassociation"
+  linkage: average
+  requested_k: dataset_specific
+  full_seeds: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  split_half_a: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  split_half_b: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  split_half_metric: ARI
+  gain: "split_half_consensus_ari - median_single_seed_pairwise_ari"
+

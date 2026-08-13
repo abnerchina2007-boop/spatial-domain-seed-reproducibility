@@ -1,0 +1,7 @@
+name: project9-sedr-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3.1
+  - r-mclust=6.1.3
+
